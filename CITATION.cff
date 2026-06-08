@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Nuc3D
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ty
+    family-names: Wittenborn
+    orcid: 'https://orcid.org/0009-0002-2609-5215'
+    affiliation: North Carolina State University
+repository-code: 'https://github.com/thwittenborn/Nuc3D'
+license: MIT
