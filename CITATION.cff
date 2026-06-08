@@ -12,5 +12,8 @@ authors:
     family-names: Wittenborn
     orcid: 'https://orcid.org/0009-0002-2609-5215'
     affiliation: North Carolina State University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20600810
 repository-code: 'https://github.com/thwittenborn/Nuc3D'
 license: MIT
